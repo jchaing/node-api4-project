@@ -1,3 +1,9 @@
+# Deployed App
+
+Heroku App: https://node-api-sprint-challenge.herokuapp.com
+
+Github Repo: https://github.com/jchaing/node-api-challenge 
+
 # Web API IV Challenge
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
